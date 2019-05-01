@@ -6,3 +6,14 @@ https://github.com/erguotou520/electron-ssr/releases
 
 https://pinyin.sogou.com/linux/?r=pinyin
 
+3. Anaconda
+
+https://www.anaconda.com/distribution/#linux
+
+4. CUDA
+
+https://developer.nvidia.com/cuda-downloads
+
+5. cuDNN
+
+https://developer.nvidia.com/cudnn

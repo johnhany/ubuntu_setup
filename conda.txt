@@ -1,0 +1,4 @@
+conda create -n torch python=3.7
+conda activate torch
+conda install pytorch torchvision cudatoolkit=10.0
+pip install numpy scipy matplotlib opencv-python
