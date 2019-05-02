@@ -1,0 +1,7 @@
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[user]
+	email = johnhany@163.com
+	name = John Hany
+[credential]
+	helper = store
