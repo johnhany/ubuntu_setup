@@ -1,0 +1,2 @@
+# usr/share/applications
+sh -c "unset SESSION_MANAGER && netease-cloud-music %U"
