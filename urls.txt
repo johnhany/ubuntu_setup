@@ -21,3 +21,7 @@ https://developer.nvidia.com/cudnn
 6. system-monitor
 
 https://extensions.gnome.org/extension/120/system-monitor/
+
+7. Qt
+
+http://download.qt.io/archive/qt/
