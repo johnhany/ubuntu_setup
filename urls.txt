@@ -25,3 +25,7 @@ https://extensions.gnome.org/extension/120/system-monitor/
 7. Qt
 
 http://download.qt.io/archive/qt/
+
+8. turn off terminal alert sound
+
+https://askubuntu.com/a/1053142/524966
