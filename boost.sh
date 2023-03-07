@@ -2,12 +2,9 @@
 
 # OR
 
-wget https://boostorg.jfrog.io/artifactory/main/release/1.78.0/source/boost_1_78_0.tar.gz
-tar xzvf boost_1_78_0.tar.gz
-cd boost_1_78_0/
-
-sudo apt-get update
-sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev build-essential libbz2-dev libboost-all-dev
+wget https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.gz
+tar xzvf boost_1_81_0.tar.gz
+cd boost_1_81_0/
 
 ./bootstrap.sh --prefix=/usr/
 ./b2

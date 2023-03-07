@@ -1,4 +1,4 @@
-sudo apt install cmake libncurses5-dev libncursesw5-dev git
+sudo apt-get install libsystemd-dev libdrm-dev
 
 cd ~/Downloads
 
